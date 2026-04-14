@@ -7,7 +7,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayyssamoraes&hide_border=true&background=000000&ring=0077B6&fire=00B4D8&currStreakLabel=90E0EF&sideLabels=90E0EF&currStreakNum=00B4D8&sideNums=00B4D8&dates=CAF0F8"/>
 </div>
 
@@ -33,7 +33,7 @@
 ---
 
 ### 📬 Connect with me
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/rayssa-de-moraes-3619ba355" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a> 
