@@ -3,8 +3,7 @@
 # Hi, I'm Rayssa de Moraes! 🚀
 ### Systems of Information Student | Tech Enthusiast | Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Programmer;IT+Student;Java+and+JS+Developer;Math+%26+Calculus+Enthusiast;Volunteer+and+Animal+Lover" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Programmer;IT+Student;Java+and+JS+Developer;Math+%26+Calculus+Enthusiast" alt="Typing SVG" />
 ---
 
 ## 🧐 About Me
