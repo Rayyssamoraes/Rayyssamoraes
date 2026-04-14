@@ -46,7 +46,7 @@ I'm involved in projects for elderly care and street animals.
 ---
 
 ### 🌙 Fun Fact
-> My schedule follows a **"Vespertino"** flow—I'm most productive when the afternoon sun hits my desk! ☀️
+> I thrive in a vespertine environment, dedicating my afternoon and evening hours to building robust applications and exploring new technologies. ☀️
 
 ### 📬 Connect with me
 <p align="left">
