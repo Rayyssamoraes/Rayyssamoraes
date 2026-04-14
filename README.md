@@ -45,9 +45,6 @@ I'm involved in projects for elderly care and street animals.
 
 ---
 
-### 🌙 Fun Fact
-> I thrive in a vespertine environment, dedicating my afternoon and evening hours to building robust applications and exploring new technologies. ☀️
-
 ### 📬 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/rayssa-de-moraes-3619ba355" target="blank">
