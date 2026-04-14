@@ -41,5 +41,5 @@
 <a href="https://www.linkedin.com/in/rayssa-de-moraes-3619ba355" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a> 
-www.linkedin.com/in/rayssa-de-moraes-3619ba355
+www.linkedin.com/in/rayssademoraes
 </p>
