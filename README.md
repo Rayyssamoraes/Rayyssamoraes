@@ -7,7 +7,7 @@
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[SEU-USER]&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats]<img src="https://github-readme-streak-stats.herokuapp.com/?user=ninhasimoes&hide_border=true&background=000000&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&sideLabels=9D4EDD&currStreakNum=9D4EDD&sideNums=9D4EDD&dates=CDB4DB"/>
 </div>
 
 ### 🧐 About Me
