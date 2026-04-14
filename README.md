@@ -39,7 +39,7 @@ I'm involved in projects for elderly care and street animals.
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML Badge" /> |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <img src="./html5-badge.svg" alt="HTML5 Badge Simples" height="20" />|
 | **Current Studies** | ![Networks](https://img.shields.io/badge/-Networks-blue?style=flat-square) ![Security](https://img.shields.io/badge/-Security-red?style=flat-square) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
