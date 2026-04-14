@@ -53,10 +53,10 @@ I'm involved in projects for elderly care and street animals.
 <a href="https://www.linkedin.com/in/rayssa-de-moraes-3619ba355" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a> 
-<a href="https://www.linkedin.com/in/rayssa-de-moraes-3619ba355" target="blank">www.linkedin.com/in/rayssa-de-moraes-3619ba355</a>
+www.linkedin.com/in/rayssa-de-moraes-3619ba355
 <br><br>
 <a href="mailto:rayssademoraes2006@gmail.com" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
 </a>
-<a href="mailto:rayssademoraes2006@gmail.com" target="blank">rayssademoraes2006@gmail.com</a>
+rayssademoraes2006@gmail.com
 </p>
