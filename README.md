@@ -14,12 +14,16 @@
 
 ### 🧐 About Me
 
+<div align="left">
+
 - 🏫 **Academic Path:** Currently in my 2nd year of **Systems of Information**.
 - 🤖 **Robotics:** Developed a full robotics project for **FIAP Next** (from hardware to logic).
 - 🧮 **Math Nerd:** I enjoy solving complex problems involving **Integrals and Derivatives**.
 
 ---
 
+<div align="center">
+ 
 ### 🛠️ My knowledge
 
 | Category | Tools & Technologies |
@@ -30,6 +34,8 @@
 
 ---
 
+<div align="center">
+  
 ### 📬 Connect with me
 <p align="center">
 <a href="https://www.linkedin.com/in/rayssa-de-moraes-3619ba355" target="blank">
