@@ -7,8 +7,7 @@
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayyssamoraes&hide_border=true&background=000000&ring=0077B6&fire=00B4D8&currStreakLabel=90E0EF&sideLabels=90E0EF&currStreakNum=00B4D8&sideNums=00B4D8&dates=CAF0F8"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Programmer;IT+Student;Java+and+JS+Developer;Math+%26+Calculus+Enthusiast;Volunteer+and+Animal+Lover" alt="Typing SVG" />
 
 <div align="left">
 
