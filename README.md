@@ -15,10 +15,10 @@
 
 ### 🧐 About Me
 
-- 🏫 **Academic Path:** Currently in my 2nd year of **Systems of Information**. 
-- 🤖 **Robotics:** Developed a full robotics project for **FIAP Next** (from hardware to logic).
-- 🧮 **Math Nerd:** I enjoy solving complex problems involving **Integrals and Derivatives**.
-- 🌍 **Social Impact:** I believe technology should help people. I'm involved in projects for elderly care and street animals.
+🏫 **Academic Path:** Currently in my 2nd year of **Systems of Information**. 
+🤖 **Robotics:** Developed a full robotics project for **FIAP Next** (from hardware to logic).
+🧮 **Math Nerd:** I enjoy solving complex problems involving **Integrals and Derivatives**.
+🌍 **Social Impact:** I believe technology should help people. I'm involved in projects for elderly care and street animals.
 
 ---
 
