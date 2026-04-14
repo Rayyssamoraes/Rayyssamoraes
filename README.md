@@ -35,7 +35,7 @@ I'm involved in projects for elderly care and street animals.
 
 ---
 
-### 🛠️ My Toolbox
+### 🛠️ My knowledge
 
 | Category | Tools & Technologies |
 | :--- | :--- |
