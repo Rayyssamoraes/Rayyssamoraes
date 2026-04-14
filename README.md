@@ -7,7 +7,8 @@
 
 ---
 
-[![GitHub Stats]<img src="https://github-readme-streak-stats.herokuapp.com/?user=ninhasimoes&hide_border=true&background=000000&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&sideLabels=9D4EDD&currStreakNum=9D4EDD&sideNums=9D4EDD&dates=CDB4DB"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayyssamoraes&hide_border=true&background=000000&ring=0077B6&fire=00B4D8&currStreakLabel=90E0EF&sideLabels=90E0EF&currStreakNum=00B4D8&sideNums=00B4D8&dates=CAF0F8"/>
 </div>
 
 ### 🧐 About Me
